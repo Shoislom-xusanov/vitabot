@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Lacto Fit 50+",
+    "price": "220 000 so'm",
+    "image_path": "images/50.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Lacto Fit Beauty",
+    "price": "270 000 so'm",
+    "image_path": "images/beauty.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Lacto Fit Sugar Care",
+    "price": "200 000 so'm",
+    "image_path": "images/diabet.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Lacto Fit Gold",
+    "price": "190 000 so'm",
+    "image_path": "images/gold.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Lacto Fit Fiber",
+    "price": "Qolmagan",
+    "image_path": "images/ichak.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Lacto Fit Gan care",
+    "price": "200 000 so'm",
+    "image_path": "images/Jigar.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Lacto Fit Moms",
+    "price": "240 000 so'm",
+    "image_path": "images/moms.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Lacto Fit Slim",
+    "price": "240 000 so'm",
+    "image_path": "images/Slim.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Lacto Fit Eve",
+    "price": "230 000 so'm",
+    "image_path": "images/uro.jpg"
+  }
+]
